@@ -12,7 +12,7 @@ namespace DCP1
             String s;
 #if !ONLINE_JUDGE
             Console.SetIn(File.OpenText("file.txt"));
-            Console.SetOut(File.CreateText("out.txt"));
+            //Console.SetOut(File.CreateText("out.txt"));
 #endif
             while ((s = Console.ReadLine()) != null)
             {
