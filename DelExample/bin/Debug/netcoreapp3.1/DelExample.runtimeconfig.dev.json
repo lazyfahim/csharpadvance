@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lazyfahim/.dotnet/store/|arch|/|tfm|",
+      "/home/lazyfahim/.nuget/packages"
+    ]
+  }
+}
